@@ -41,4 +41,4 @@ Temperature: The temperature in the particular area where the store is located. 
 
 Result:
 
-All the stores efficiency in the year 2010,2011,2012 are more than 90%
+All the stores are analyzed with each of there columns and used ML Algorithm to predict thier maximum sales. and the stores to get effective on thier sales.
